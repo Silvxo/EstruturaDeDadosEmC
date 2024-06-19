@@ -13,9 +13,8 @@ struct Sensor
     int presencaFumaca; // leitura da presença de fumaça (0/1)
 };
 
-struct Sensor sensor[6];
 int unidadesDeSensores = 6;
-int numeroDeLeituras = 0;
+struct Sensor *sensores; // Array dinâmico de sensores
 
 void gerarDadosDeIdentificacao(int sensor, char *ip, char *id, char *lugar){
     sprintf(ip, "10.1.1.%d", (sensor + 48));
@@ -30,48 +29,67 @@ void gerarDadosDeLeitura(int sensor, int *volumeDeGasesInflamaveis, int *presenc
     *presencaDeFumaca = (rand () % 2) + 0;
 }
 
-void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local){
+void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local, FILE *arquivo){
     if(volume >= 1000 || fumaca == 1){
         time_t t = time(NULL);
         struct tm *tm_info = localtime(&t);
-
-        printf("Data: %02d/%02d/%d ", tm_info->tm_mday, tm_info->tm_mon + 1, tm_info->tm_year + 1900);
-        printf("Hora: %02d:%02d\n", (tm_info->tm_hour - 3), tm_info->tm_min);
+        
+        fprintf(arquivo, "Data: %02d/%02d/%d Hora: %02d:%02d - ", tm_info->tm_mday, tm_info->tm_mon + 1, tm_info->tm_year + 1900,
+                (tm_info->tm_hour - 3), tm_info->tm_min);
+        
         if(volume >= 1000){
-            printf("Gases em níveis perigosos!\n");
+            fprintf(arquivo, "Alarme ativo: Gases inflamáveis - ID do dispositivo: %s Presença de gases inflamáveis: %d PPM\n", id, volume);
         }
         if(fumaca == 1){
-            printf("Fumaça detectada!\n");
+            fprintf(arquivo, "Alarme ativo: Fumaça - ID do dispositivo: %s Presença de fumaça\n", id);
         }
-        printf("IP: %s, ID: %s, Local: %s, Volume de gases inflamáveis: %d PPM\n", ip, id, local, volume);
-        printf("IP: %s, ID: %s, Local: %s, Presença de fumaça: %d\n", ip, id, local, fumaca);
-        printf("\n");
     }
 }
 
 int main()
 {
     srand(time(NULL));
-    setbuf(stdout, NULL);
-    printf("Testing...\n");
-    
-    for(numeroDeLeituras = 0; numeroDeLeituras < unidadesDeSensores; numeroDeLeituras++){
-        gerarDadosDeIdentificacao(numeroDeLeituras, sensor[numeroDeLeituras].IP, sensor[numeroDeLeituras].ID, sensor[numeroDeLeituras].local);
-        fflush(stdout);
+    FILE *arquivo;
+    arquivo = fopen("alarmes.txt", "a"); // Abre o arquivo para escrita no final (append)
+    if (arquivo == NULL) {
+        perror("Erro ao abrir o arquivo");
+        return 1;
     }
-    
+
+    sensores = (struct Sensor *) malloc(unidadesDeSensores * sizeof(struct Sensor));
+    if (sensores == NULL) {
+        perror("Erro de alocação de memória");
+        return 1;
+    }
+
+    printf("Testing...\n");
+
+    // Gerar dados de identificação para cada sensor
+    for(int i = 0; i < unidadesDeSensores; i++){
+        gerarDadosDeIdentificacao(i, sensores[i].IP, sensores[i].ID, sensores[i].local);
+    }
+
+    // Loop infinito para simular leituras contínuas
     while(1){
-        fflush(stdout);
-        numeroDeLeituras = 0;
-        for(numeroDeLeituras = 0; numeroDeLeituras < unidadesDeSensores; numeroDeLeituras++){
-            gerarDadosDeLeitura(numeroDeLeituras, &sensor[numeroDeLeituras].volumeGasesInflamaveis, &sensor[numeroDeLeituras].presencaFumaca);
+        // Gerar dados de leitura para cada sensor
+        for(int i = 0; i < unidadesDeSensores; i++){
+            gerarDadosDeLeitura(i, &sensores[i].volumeGasesInflamaveis, &sensores[i].presencaFumaca);
         }
-        numeroDeLeituras = 0;
-        for(numeroDeLeituras = 0; numeroDeLeituras < unidadesDeSensores; numeroDeLeituras++){
-            analiseDosDados(sensor[numeroDeLeituras].presencaFumaca, sensor[numeroDeLeituras].volumeGasesInflamaveis, sensor[numeroDeLeituras].IP, sensor[numeroDeLeituras].ID, sensor[numeroDeLeituras].local);            
+
+        // Analisar os dados e registrar alarmes no arquivo
+        for(int i = 0; i < unidadesDeSensores; i++){
+            analiseDosDados(sensores[i].presencaFumaca, sensores[i].volumeGasesInflamaveis, sensores[i].IP, sensores[i].ID, sensores[i].local, arquivo);
         }
+
+        // Dormir por 10 segundos entre cada iteração
         sleep(10);
     }
-    
+
+    // Fechar o arquivo ao final do programa (não será alcançado no loop infinito)
+    fclose(arquivo);
+
+    // Liberar memória alocada
+    free(sensores);
+
     return 0;
 }
