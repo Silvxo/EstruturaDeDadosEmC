@@ -30,9 +30,9 @@ void gerarDadosDeLeitura(int sensor, int *volumeDeGasesInflamaveis, int *presenc
 }
 
 void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local, FILE *arquivo){
+    time_t t = time(NULL);
+    struct tm *tm_info = localtime(&t);
     if(volume >= 1000 || fumaca == 1){
-        time_t t = time(NULL);
-        struct tm *tm_info = localtime(&t);
         
         fprintf(arquivo, "Data: %02d/%02d/%d Hora: %02d:%02d - ", tm_info->tm_mday, tm_info->tm_mon + 1, tm_info->tm_year + 1900,
                 (tm_info->tm_hour - 3), tm_info->tm_min);
@@ -43,12 +43,15 @@ void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local, FI
         if(fumaca == 1){
             fprintf(arquivo, "Alarme ativo: Fumaça - ID do dispositivo: %s Presença de fumaça\n", id);
         }
+    } else {
+        printf("No abnormalities at time: %02d:%02d:%02d\n", (tm_info->tm_hour - 3), tm_info->tm_min, tm_info->tm_sec);
     }
 }
 
 int main()
 {
     srand(time(NULL));
+    setbuf(stdout, NULL); // Disable output buffering
     FILE *arquivo;
     arquivo = fopen("alarmes.txt", "a"); // Abre o arquivo para escrita no final (append)
     if (arquivo == NULL) {
@@ -71,7 +74,8 @@ int main()
 
     // Loop infinito para simular leituras contínuas
     while(1){
-        // Gerar dados de leitura para cada sensor
+        fflush(stdout); // Flush the output buffe
+        
         for(int i = 0; i < unidadesDeSensores; i++){
             gerarDadosDeLeitura(i, &sensores[i].volumeGasesInflamaveis, &sensores[i].presencaFumaca);
         }
