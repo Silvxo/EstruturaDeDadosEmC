@@ -29,7 +29,6 @@ void gerarDadosDeLeitura(int sensor, int *volumeDeGasesInflamaveis, int *presenc
     *volumeDeGasesInflamaveis = (rand () % 1200) + 0;
     *presencaDeFumaca = (rand () % 2) + 0;
 }
-
 void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local, FILE *arquivo){
     time_t t = time(NULL);
     struct tm *tm_info = localtime(&t);
