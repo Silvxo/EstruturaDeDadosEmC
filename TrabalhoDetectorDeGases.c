@@ -29,6 +29,7 @@ void gerarDadosDeLeitura(int sensor, int *volumeDeGasesInflamaveis, int *presenc
     *volumeDeGasesInflamaveis = (rand () % 1200) + 0;
     *presencaDeFumaca = (rand () % 2) + 0;
 }
+
 void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local, FILE *arquivo){
     time_t t = time(NULL);
     struct tm *tm_info = localtime(&t);
@@ -52,7 +53,13 @@ void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local, FI
     }
 }
 
-int main()
+void identificandoSensores(struct Sensor *sensores){
+    for(int i = 0; i < unidadesDeSensores; i++){
+        gerarDadosDeIdentificacao(i, sensores[i].IP, sensores[i].ID, sensores[i].local);
+    }
+}
+
+int main(void)
 {
     srand(time(NULL));
     setbuf(stdout, NULL);
@@ -64,9 +71,7 @@ int main()
         return 0;
     }
 
-    for(int i = 0; i < unidadesDeSensores; i++){
-        gerarDadosDeIdentificacao(i, sensores[i].IP, sensores[i].ID, sensores[i].local);
-    }
+    identificandoSensores(sensores);
 
     while(1){
         arquivo = fopen("alarmes.txt", "a");
