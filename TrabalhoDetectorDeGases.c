@@ -33,39 +33,38 @@ void analiseDosDados(int fumaca, int volume, char *ip, char *id, char *local, FI
     time_t t = time(NULL);
     struct tm *tm_info = localtime(&t);
     if(volume >= 1000 || fumaca == 1){
-        
+        printf("Data: %02d/%02d/%d Hora: %02d:%02d - ", tm_info->tm_mday, tm_info->tm_mon + 1, tm_info->tm_year + 1900,
+                (tm_info->tm_hour - 3), tm_info->tm_min);
         fprintf(arquivo, "Data: %02d/%02d/%d Hora: %02d:%02d - ", tm_info->tm_mday, tm_info->tm_mon + 1, tm_info->tm_year + 1900,
                 (tm_info->tm_hour - 3), tm_info->tm_min);
         
         if(volume >= 1000){
+            printf("Alarme ativo: Gases inflamáveis - ID do dispositivo: %s Presença de gases inflamáveis: %d PPM\n", id, volume);
             fprintf(arquivo, "Alarme ativo: Gases inflamáveis - ID do dispositivo: %s Presença de gases inflamáveis: %d PPM\n", id, volume);
+
         }
         if(fumaca == 1){
+            printf( "Alarme ativo: Fumaça - ID do dispositivo: %s Presença de fumaça\n", id);
             fprintf(arquivo, "Alarme ativo: Fumaça - ID do dispositivo: %s Presença de fumaça\n", id);
         }
     } else {
-        printf("No abnormalities at time: %02d:%02d:%02d\n", (tm_info->tm_hour - 3), tm_info->tm_min, tm_info->tm_sec);
+
     }
 }
 
 int main()
 {
     srand(time(NULL));
-    setbuf(stdout, NULL); // Disable output buffering
+    setbuf(stdout, NULL);
     FILE *arquivo;
-    arquivo = fopen("alarmes.txt", "a"); // Abre o arquivo para escrita no final (append)
-    if (arquivo == NULL) {
-        perror("Erro ao abrir o arquivo");
-        return 1;
-    }
 
     sensores = (struct Sensor *) malloc(unidadesDeSensores * sizeof(struct Sensor));
     if (sensores == NULL) {
         perror("Erro de alocação de memória");
-        return 1;
+        return 0;
     }
 
-    printf("Testing...\n");
+    printf("Testing monitor...\n");
 
     // Gerar dados de identificação para cada sensor
     for(int i = 0; i < unidadesDeSensores; i++){
@@ -74,26 +73,21 @@ int main()
 
     // Loop infinito para simular leituras contínuas
     while(1){
-        fflush(stdout); // Flush the output buffe
-        
+        arquivo = fopen("alarmes.txt", "a");
+        if (arquivo == NULL) {
+            perror("Erro ao abrir o arquivo");
+            return 0;
+        }
+        fflush(stdout);
         for(int i = 0; i < unidadesDeSensores; i++){
             gerarDadosDeLeitura(i, &sensores[i].volumeGasesInflamaveis, &sensores[i].presencaFumaca);
         }
-
-        // Analisar os dados e registrar alarmes no arquivo
         for(int i = 0; i < unidadesDeSensores; i++){
             analiseDosDados(sensores[i].presencaFumaca, sensores[i].volumeGasesInflamaveis, sensores[i].IP, sensores[i].ID, sensores[i].local, arquivo);
         }
-
-        // Dormir por 10 segundos entre cada iteração
+        fclose(arquivo);
         sleep(10);
     }
-
-    // Fechar o arquivo ao final do programa (não será alcançado no loop infinito)
-    fclose(arquivo);
-
-    // Liberar memória alocada
     free(sensores);
-
     return 0;
 }
