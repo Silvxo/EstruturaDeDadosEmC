@@ -15,6 +15,7 @@ struct Sensor
 
 int unidadesDeSensores = 6;
 struct Sensor *sensores; // Array dinâmico de sensores
+FILE *arquivo;
 
 void gerarDadosDeIdentificacao(int sensor, char *ip, char *id, char *lugar){
     sprintf(ip, "10.1.1.%d", (sensor + 48));
@@ -56,7 +57,7 @@ int main()
 {
     srand(time(NULL));
     setbuf(stdout, NULL);
-    FILE *arquivo;
+    printf("Testing monitor...\n");
 
     sensores = (struct Sensor *) malloc(unidadesDeSensores * sizeof(struct Sensor));
     if (sensores == NULL) {
@@ -64,14 +65,10 @@ int main()
         return 0;
     }
 
-    printf("Testing monitor...\n");
-
-    // Gerar dados de identificação para cada sensor
     for(int i = 0; i < unidadesDeSensores; i++){
         gerarDadosDeIdentificacao(i, sensores[i].IP, sensores[i].ID, sensores[i].local);
     }
 
-    // Loop infinito para simular leituras contínuas
     while(1){
         arquivo = fopen("alarmes.txt", "a");
         if (arquivo == NULL) {

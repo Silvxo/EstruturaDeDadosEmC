@@ -1,3 +1,461 @@
 Data: 19/06/2024 Hora: 19:03 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
 Data: 19/06/2024 Hora: 19:03 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
 Data: 19/06/2024 Hora: 19:03 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1037 PPM
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1022 PPM
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1009 PPM
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1094 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:18 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1183 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1199 PPM
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1035 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1138 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1132 PPM
+Data: 19/06/2024 Hora: 19:19 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1107 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1025 PPM
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1126 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1189 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:20 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1115 PPM
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1040 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1148 PPM
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1002 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1001 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1142 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:21 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1087 PPM
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1183 PPM
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1163 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1189 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:23 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1002 PPM
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1082 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1064 PPM
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1136 PPM
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1192 PPM
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:24 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1051 PPM
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1031 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1118 PPM
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1130 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1018 PPM
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1137 PPM
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1125 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1126 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:25 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1047 PPM
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1045 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1130 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1123 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1177 PPM
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1162 PPM
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:26 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1119 PPM
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1031 PPM
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1016 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:27 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1162 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1100 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1045 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1150 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1037 PPM
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1041 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:28 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1117 PPM
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1065 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1160 PPM
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1005 PPM
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:29 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1192 PPM
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1075 PPM
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1019 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1107 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:30 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1110 PPM
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1019 PPM
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1089 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:31 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1078 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1063 PPM
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1031 PPM
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1094 PPM
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1141 PPM
+Data: 19/06/2024 Hora: 19:32 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1130 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1031 PPM
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1147 PPM
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1125 PPM
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1013 PPM
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1121 PPM
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:33 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1199 PPM
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1141 PPM
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1028 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1030 PPM
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1041 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:34 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1060 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:35 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1136 PPM
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1156 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1073 PPM
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1133 PPM
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1049 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1159 PPM
+Data: 19/06/2024 Hora: 19:36 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1191 PPM
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1058 PPM
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1119 PPM
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1071 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1120 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1178 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1110 PPM
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1154 PPM
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:37 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1111 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1092 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 0 Presença de gases inflamáveis: 1079 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1095 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 1 Presença de gases inflamáveis: 1034 PPM
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 3 Presença de gases inflamáveis: 1082 PPM
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:38 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 19/06/2024 Hora: 19:39 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 19/06/2024 Hora: 19:39 - Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 19/06/2024 Hora: 19:39 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 5 Presença de gases inflamáveis: 1030 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 20/06/2024 Hora: 15:04 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 20/06/2024 Hora: 15:04 - Alarme ativo: Fumaça - ID do dispositivo: 3 Presença de fumaça
+Data: 20/06/2024 Hora: 15:04 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1142 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 4 Presença de fumaça
+Data: 20/06/2024 Hora: 15:04 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Fumaça - ID do dispositivo: 1 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 4 Presença de gases inflamáveis: 1113 PPM
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Gases inflamáveis - ID do dispositivo: 2 Presença de gases inflamáveis: 1009 PPM
+Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Fumaça - ID do dispositivo: 0 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Fumaça - ID do dispositivo: 2 Presença de fumaça
+Data: 20/06/2024 Hora: 15:05 - Alarme ativo: Fumaça - ID do dispositivo: 5 Presença de fumaça
